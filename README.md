@@ -10,7 +10,7 @@ Front-end разработчик (React)
 *  🧠 Сейчас я изучаю React, TypeScript и Git.
 * ⚡  Нравится изучать алгоритмы.
 * 🖥️  Посмотрите портфолио [Примеры моих сайтов](http://original-websites.ru)
-* ✉️  Написать в телеграм [https://t.me/@Vladimir\_Konstantinovich0](mailto:https://t.me/@Vladimir_Konstantinovich0)
+* ✉️  Написать в телеграм [https://t.me/@Vladimir\_Konstantinovich0](https://t.me/@Vladimir_Konstantinovich0)
 
 Навыки
 =================================================================================================================================
